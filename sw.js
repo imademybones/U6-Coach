@@ -1,7 +1,7 @@
-const CACHE = 'u6-coach-v11';
+const CACHE = 'u6-coach-v12';
 const ASSETS = [
   './index.html',
-  './u6-rotation-card-v11.html',
+  './u6-rotation-card-v12.html',
   './manifest.json',
   './offline.html',
   'https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@400;500;600;700&display=swap'
