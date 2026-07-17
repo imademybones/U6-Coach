@@ -2,7 +2,7 @@
   "name": "U6 Coach – Rotation Card",
   "short_name": "U6 Coach",
   "description": "Match day rotation card, playing time tracker, squad manager and half timer for U6 soccer coaches.",
-  "start_url": "./u6-rotation-card-v11.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#eef2f7",

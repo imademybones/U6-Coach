@@ -1,5 +1,6 @@
 const CACHE = 'u6-coach-v11';
 const ASSETS = [
+  './index.html',
   './u6-rotation-card-v11.html',
   './manifest.json',
   './offline.html',
