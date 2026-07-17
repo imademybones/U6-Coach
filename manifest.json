@@ -1,0 +1,48 @@
+{
+  "name": "U6 Coach – Rotation Card",
+  "short_name": "U6 Coach",
+  "description": "Match day rotation card, playing time tracker, squad manager and half timer for U6 soccer coaches.",
+  "start_url": "./u6-rotation-card-v11.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef2f7",
+  "theme_color": "#1a3a6b",
+  "orientation": "portrait",
+  "lang": "en",
+  "categories": ["sports", "utilities"],
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Match Day",
+      "short_name": "Match Day",
+      "description": "Go straight to match day setup",
+      "url": "./u6-rotation-card-v11.html",
+      "icons": [{ "src": "android-chrome-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}
